@@ -11,6 +11,7 @@
 		FACB3180306F7E7F008FEFF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACB317F306F7E7F008FEFF6 /* ContentView.swift */; };
 		FACB3182306F7E87008FEFF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FACB3181306F7E87008FEFF6 /* Assets.xcassets */; };
 		FACB3185306F7E87008FEFF6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FACB3184306F7E87008FEFF6 /* Preview Assets.xcassets */; };
+		FACB318C306F7EAC008FEFF6 /* WardrobeAppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACB318B306F7EAC008FEFF6 /* WardrobeAppView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FACB317F306F7E7F008FEFF6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FACB3181306F7E87008FEFF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FACB3184306F7E87008FEFF6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FACB318B306F7EAC008FEFF6 /* WardrobeAppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WardrobeAppView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				FACB317F306F7E7F008FEFF6 /* ContentView.swift */,
 				FACB3181306F7E87008FEFF6 /* Assets.xcassets */,
 				FACB3183306F7E87008FEFF6 /* Preview Content */,
+				FACB318B306F7EAC008FEFF6 /* WardrobeAppView.swift */,
 			);
 			path = "AI Wardrobe Application";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FACB318C306F7EAC008FEFF6 /* WardrobeAppView.swift in Sources */,
 				FACB3180306F7E7F008FEFF6 /* ContentView.swift in Sources */,
 				FACB317E306F7E7F008FEFF6 /* AI_Wardrobe_ApplicationApp.swift in Sources */,
 			);
